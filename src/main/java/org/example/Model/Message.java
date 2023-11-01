@@ -27,5 +27,4 @@ public class Message {
     @Column(name = "message",nullable = false)
     private String message;
 
-
 }
